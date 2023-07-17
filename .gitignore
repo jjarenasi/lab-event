@@ -33,3 +33,7 @@ override.tf.json
 .terraformrc
 .terraform.*
 terraform.rc
+
+
+#Ignore Ds Store file, which is used to custom attributes of its containing folder
+.DS_Store
